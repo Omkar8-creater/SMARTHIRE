@@ -59,6 +59,7 @@ SmartHire/
    ```
 6. **Start Apache/MySQL via XAMPP** and access the app at `http://localhost/SmartHire/`.
 
+## WATCH DEMO VIDEO 
 
 ## Usage
 
@@ -75,3 +76,4 @@ This project is for educational and demonstration purposes only.
 
 ---
 Built with ❤️ by the SmartHire Team.
+
